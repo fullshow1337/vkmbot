@@ -1,0 +1,1 @@
+from .api import vk_music_api
